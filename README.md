@@ -1,6 +1,6 @@
 # SOL NFT Data Dash
+![image](https://github.com/user-attachments/assets/1c1c43c2-ffc2-4787-ba18-09d7d3547b28)
 
-![image](https://github.com/user-attachments/assets/cc602988-3129-4c15-891b-7a39afac19f0)
 
 This is a React-based web application that provides detailed information about NFT collections on the Solana blockchain. It uses the HelloMoon API to fetch and display data about NFT collections, including statistics, loan summaries, ownership information, and floor prices.
 
@@ -15,7 +15,7 @@ This is a React-based web application that provides detailed information about N
 - Responsive design for desktop and mobile devices
 
 # Collections Detail Page
-![image](https://github.com/user-attachments/assets/c43884b2-ccff-4e2d-b2b0-045b281e8487)
+![image](https://github.com/user-attachments/assets/2351a275-a1a2-4b27-90e2-4b99a8fac8c1)
 
 ## Technologies Used
 
